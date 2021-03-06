@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "60273953d360211ffa99d781"
+  },
+  "categoria": "Bolos Caseiros",
+  "nome_imagem": "bolo_aipim_cremoso_kg_86042.jpg.jpg",
+  "nome": "Bolo de Aipim Cremoso",
+  "preco": "15.00"
+},{
+  "_id": {
+    "$oid": "60273b1cf0a5b406c01f8337"
+  },
+  "categoria": "Bolos Caseiros",
+  "nome_imagem": "bolo_queijo.png",
+  "nome": "Bolo de Queijo Cremoso",
+  "preco": "30.00"
+},{
+  "_id": {
+    "$oid": "60394d60dd3e4c47e8fffafb"
+  },
+  "categoria": "Bolos Caseiros",
+  "nome_imagem": "bolo_formiga.png",
+  "nome": "Bolo Formigueiro",
+  "preco": "20.00"
+},{
+  "_id": {
+    "$oid": "60394df3dd3e4c47e8fffaff"
+  },
+  "categoria": "Bolos com Calda",
+  "nome_imagem": "bolo_cenoura.png",
+  "nome": "Cenoura com Chocolate",
+  "preco": "40.00"
+},{
+  "_id": {
+    "$oid": "60394dfbdd3e4c47e8fffb00"
+  },
+  "categoria": "Bolos com Calda",
+  "nome_imagem": "bolo_red.png",
+  "nome": "Red Velvet com Ninho",
+  "preco": "40.00"
+},{
+  "_id": {
+    "$oid": "60394e39dd3e4c47e8fffb01"
+  },
+  "categoria": "Bolos de Festa",
+  "nome_imagem": "Bolo_baunilha.png",
+  "nome": "Baunilha com Ganache",
+  "preco": "120.00"
+},{
+  "_id": {
+    "$oid": "60394e45dd3e4c47e8fffb02"
+  },
+  "categoria": "Bolos de Festa",
+  "nome_imagem": "bolo1.jpg",
+  "nome": "Chocolate com Framboesa",
+  "preco": "140.00"
+},{
+  "_id": {
+    "$oid": "60394ea0dd3e4c47e8fffb03"
+  },
+  "categoria": "Bolos de Festa",
+  "nome_imagem": "bolo.jpg",
+  "nome": "Pão de Ló com Nozes",
+  "preco": "140.00"
+},{
+  "_id": {
+    "$oid": "60394eeadd3e4c47e8fffb04"
+  },
+  "categoria": "Bolos de Pote",
+  "nome_imagem": "Bolo-pote-morango.png",
+  "nome": "Bolo de Ninho com Morango",
+  "preco": "5.00"
+},{
+  "_id": {
+    "$oid": "60394f12dd3e4c47e8fffb05"
+  },
+  "categoria": "Bolos de Pote",
+  "nome_imagem": "floresta_negra.png",
+  "nome": "Bolo de Floresta Negra",
+  "preco": "5.00"
+},{
+  "_id": {
+    "$oid": "60394f36dd3e4c47e8fffb06"
+  },
+  "categoria": "Bolos de Pote",
+  "nome_imagem": "bolo de pote-pacoca.jpg",
+  "nome": "Bolo de Paçoca",
+  "preco": "5.00"
+},{
+  "_id": {
+    "$oid": "60394f54dd3e4c47e8fffb07"
+  },
+  "categoria": "Bolos de Pote",
+  "nome": "Bolo de Mousse de LimÃo",
+  "descricao": "Bolos de Pote",
+  "preco": "5.00",
+  "nome_imagem": "limao.png"
+},{
+  "_id": {
+    "$oid": "60394f71dd3e4c47e8fffb08"
+  },
+  "categoria": "Bolos de Pote",
+  "nome": "Bolo de Mousse de Maracuja",
+  "descricao": "Bolos de Pote",
+  "preco": "5.00",
+  "nome_imagem": "maracuja.png"
+},{
+  "_id": {
+    "$oid": "60394f96dd3e4c47e8fffb09"
+  },
+  "categoria": "Bolos Funcional",
+  "nome_imagem": "bolofuncional.png",
+  "nome": "Bolo Funcional de Abacaxi",
+  "preco": "35.00"
+},{
+  "_id": {
+    "$oid": "60394fc1dd3e4c47e8fffb0a"
+  },
+  "categoria": "Cheesecakes sem Forno",
+  "nome_imagem": "Cheesecake.png",
+  "nome": "Cheesecake de Paçoca",
+  "preco": "50.00"
+},{
+  "_id": {
+    "$oid": "60394fe9dd3e4c47e8fffb0b"
+  },
+  "categoria": "Rocambole",
+  "nome_imagem": "rocambole_de_prestigio.jpg",
+  "nome": "Rocambole de Prestigio",
+  "preco": "15.00"
+},{
+  "_id": {
+    "$oid": "60395009dd3e4c47e8fffb0c"
+  },
+  "categoria": "Rocambole",
+  "nome_imagem": "rocambole-creme.jpg",
+  "nome": "Rocambole de Doce de Leite",
+  "preco": "15.00"
+}]
